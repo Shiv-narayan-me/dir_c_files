@@ -9,6 +9,8 @@ int main(){
     
     bool e=true;// 1 byte of memory and %d
 
+   // I am going to be a great developer! Someday, probably tomorrow
+
     char f= 120;// 1 byte stores ascii characters(-128 to 127) %c format for character. or %d for the number
     unsigned char g=50;// 1 byte. 0-255. negative parts of char are ignored. %d or %c
 
