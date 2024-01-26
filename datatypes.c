@@ -2,7 +2,7 @@
 #include<stdbool.h>//  for using boolean stuff
 int main(){
     char a='C';//%c
-    char b[]="Shiv";//%s
+    char b[]="Shiv";//%sivnarayan
 
     float c=3.141592653589793;//6-7 digits,4 bytes. precision isn lost after 32 bits
     double d=3.141592653589793;//15-16 digits and 64 bits precision,8bytes.denoted by lf for long float
